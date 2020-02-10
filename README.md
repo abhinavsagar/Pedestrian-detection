@@ -44,8 +44,11 @@ predict very compact detection boxes for all instances to reduce false positives
 ## References
 
 1. https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/leibe-cvpr-05.pdf
+
 2. https://www.frontiersin.org/articles/10.3389/fnbot.2018.00064/full
+
 3. https://arxiv.org/abs/1904.03629
+
 4. https://www.vision.ee.ethz.ch/publications/papers/proceedings/eth_biwi_01126.pdf
 
 ## Citing
