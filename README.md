@@ -1,5 +1,5 @@
 # Pedestrian-detection
-Pedestrian detection using Non Maximum Suppression.
+Pedestrian detection using Non Maximum Suppression algorithm and bounding box parameterization
 
 ## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
