@@ -1,5 +1,5 @@
 # Pedestrian-detection
-Pedestrian detection using Non Maximum Suppression algorithm and bounding box parameterization
+Unofficial code for paper "Adaptive NMS: Refining Pedestrian Detection in a Crowd"
 
 ## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
@@ -13,12 +13,6 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/ped
 4. opencv
 5. nms
 6. argparse
-
-## Data
-
-I downloaded the images from [here](https://unsplash.com/search/photos/pedestrians).
-Then I compressed the image to 300 by 200 size and used these images as test images
-for this project.
 
 ## Non Maximum Suppression
 
@@ -43,11 +37,11 @@ predict very compact detection boxes for all instances to reduce false positives
 
 ## References
 
-1. https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/leibe-cvpr-05.pdf
+1. https://arxiv.org/abs/1904.03629
 
 2. https://www.frontiersin.org/articles/10.3389/fnbot.2018.00064/full
 
-3. https://arxiv.org/abs/1904.03629
+3. https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/leibe-cvpr-05.pdf
 
 4. https://www.vision.ee.ethz.ch/publications/papers/proceedings/eth_biwi_01126.pdf
 
