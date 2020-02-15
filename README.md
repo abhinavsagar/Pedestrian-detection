@@ -1,5 +1,5 @@
 # Pedestrian-detection
-Unofficial code for paper "Adaptive NMS: Refining Pedestrian Detection in a Crowd"
+Implementation of the paper "Adaptive NMS: Refining Pedestrian Detection in a Crowd"
 
 ## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
