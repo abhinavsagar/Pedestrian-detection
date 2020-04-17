@@ -1,5 +1,5 @@
 # Pedestrian-detection
-Implementation of the paper "Adaptive NMS: Refining Pedestrian Detection in a Crowd"
+Pedestrian Detection using Non Maximum Suppression
 
 ## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
