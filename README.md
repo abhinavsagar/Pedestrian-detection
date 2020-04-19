@@ -1,8 +1,6 @@
 # Pedestrian-detection
 Pedestrian Detection using Non Maximum Suppression
 
-## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
-
 Check out the corresponding medium blog post [https://towardsdatascience.com/pedestrian-detection-using-non-maximum-suppression-b55b89cefc6](https://towardsdatascience.com/pedestrian-detection-using-non-maximum-suppression-b55b89cefc6).
 
 ## Environment and tools
